@@ -44,5 +44,11 @@
 and transactions.market_code="Mark001";`
 
 
+Revenue Analysis
+ ![image](https://user-images.githubusercontent.com/56244788/181369770-a0eb1ffb-8dce-4211-b409-bec29ba16365.png)
+
+Profit Analysis
+ ![image](https://user-images.githubusercontent.com/56244788/181369809-a58d482a-fd46-4d15-a945-b6422ba6a1c0.png)
+
 
 
