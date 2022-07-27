@@ -48,7 +48,8 @@ Revenue Analysis
  ![image](https://user-images.githubusercontent.com/56244788/181369770-a0eb1ffb-8dce-4211-b409-bec29ba16365.png)
 
 Profit Analysis
- ![image](https://user-images.githubusercontent.com/56244788/181369809-a58d482a-fd46-4d15-a945-b6422ba6a1c0.png)
+![image](https://user-images.githubusercontent.com/56244788/181377931-fb0ce211-0e29-4a01-8016-42e6ec243aed.png)
+
 
 
 
